@@ -1,7 +1,28 @@
-### Hi there 👋
-- 🔭 A CSE student at SRM
-- 🌱 Currently learning OOPS & DSA using C++
-- 🤔 I’m interested in peer programming and collaboration
-- 💬 Ask me about C, C++ and Python
-- 📫 How to reach me: ashwanikumar200508@gmail.com
+👋 Hi there! I'm Ashwani Kumar
+I'm a Computer Science student at SRM IST, NCR, with a keen interest in competitive programming and web development. I enjoy tackling complex problems and building solutions that make an impact.
 
+🔭 Currently Working On:
+
+Exploring web development with a focus on [specific technology, e.g., "React.js" or "Node.js"]
+Participating in competitive programming contests to sharpen problem-solving skills
+
+🌱 Learning:
+
+JavaScript
+Java
+Python
+
+💬 Ask Me About:
+
+C++ and C programming
+Competitive programming strategies and problem-solving techniques
+
+📫 How to Reach Me:
+Mail : ashwanikumar200508@gmail.com
+LinkedIn : LinkedIn Profile
+
+⚡ Fun Fact:
+
+I can solve a Rubik's Cube in under 2 minutes!
+
+Feel free to explore my repositories and check out my projects. I’m always open to collaboration and learning from fellow developers!
