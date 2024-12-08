@@ -3,7 +3,7 @@ I'm a Computer Science student at SRM IST, NCR, with a keen interest in competit
 
 🔭 Currently Working On:
 
-Exploring web development with a focus on [specific technology, e.g., "React.js" or "Node.js"]
+Exploring web development with a focus on ["React.js" or "Node.js"]
 Participating in competitive programming contests to sharpen problem-solving skills
 
 🌱 Learning:
