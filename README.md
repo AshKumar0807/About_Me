@@ -26,3 +26,5 @@ LinkedIn : LinkedIn Profile
 I can solve a Rubik's Cube in under 2 minutes!
 
 Feel free to explore my repositories and check out my projects. I’m always open to collaboration and learning from fellow developers!
+![Ashwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwani123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani123&layout=compact&theme=radical)
